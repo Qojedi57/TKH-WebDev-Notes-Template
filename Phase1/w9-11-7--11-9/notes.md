@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[08] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about currying/anonymous functions.
+2. I learned about stack the first in last out.
+3. I learned about find method.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about stack.
+2. I would like to know more about call stack and data structures.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding is recurring uses.
 
 ___
 
