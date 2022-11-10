@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [November]/[09]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about currying.
+2. I learned about how to use currying in a real world example.
+3. I learned about json files.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know about using APIs.
+2. I would like to know more about typescript.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble with working with json.
  
 
