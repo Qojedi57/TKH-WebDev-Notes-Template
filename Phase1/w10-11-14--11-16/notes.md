@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week10]
+## [November]/[14] - [November]/[16]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [November]/[16]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about how to make a Pokedex.
+2.I learned about Async function.
+3.I learned about NPM install and NPM web dev.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about APIS.
+2. I would like to know more Async.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding fetching specific data from an API.
 
 
 ___
