@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [November]/[16]
+### Day 1, [November]/[14]
 
 #### 🗒️Notes from class:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[15] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about Async.
+2. I learned about Api.
+3. I learned about vanilla javascript.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about other Apis that we can use and how I can use them.
+2. I would like to know more about how to get into axios.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble with setting up vite.
 
 ___
 
