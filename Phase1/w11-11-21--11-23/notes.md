@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [November]/[23]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about other Apis seeing peer presentations.
+2. I learned about media query for sizing.
+3. I learned about less is more for like assignment or project with progress.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about Apis with other ways to work with them or what else can we do with them. 
+2. I would like toknow more about currying.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Not at the moment excited for react next week in class.
  
 
