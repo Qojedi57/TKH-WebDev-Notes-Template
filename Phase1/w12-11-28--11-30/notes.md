@@ -1,5 +1,5 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week12]
+## [November]/[28] - [November]/[30]
 
 # Topic:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about react.
+2. I learned today about jsx components.
+3. I learned today about palindromes.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about using jsx to build more.
+2. I would like to know more about other react features.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding react.
 
 
 ___
