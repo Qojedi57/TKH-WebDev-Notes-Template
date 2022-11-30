@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [November]/[28]
 
 #### 🗒️Notes from class:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [November]/[29] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about react props.
+2. I learned about react components.
+3. I learned about styling and objects in react.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Jsx methods is what I would like to know more about.
+2. I would like to know more about hooks.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble about props.
 
 ___
 
