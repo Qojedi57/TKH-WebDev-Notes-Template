@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week1]
+## [December]/[05] - [December]/[07]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [December]/[05]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about fragments are palceholder containers.
+2. i learned about class component vs functional component.
+3. I learned about parent/children for components.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. Html/Css structuring using react.
+2. React hooks is what I would like to know more about.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding ternary operators.
 
 
 ___
