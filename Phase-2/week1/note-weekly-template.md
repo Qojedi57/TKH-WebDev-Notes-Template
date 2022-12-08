@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [December]/[07]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about using bootstrap documentation to style jsx.
+2. I learned about building a login ui form with the class.
+3. I learned about today setState,spread,operator,and forms.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about using state.
+2. I would like to know more about login page.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding ui frameworks.
  
 
