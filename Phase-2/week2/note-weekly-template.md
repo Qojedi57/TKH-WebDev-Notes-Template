@@ -61,15 +61,14 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1.
-2.
-3. 
+1.I learned about router.
+2.I learned about touched on hooks again.
+3. I learned today about making different webpages with path.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about react Js routes.
+2. i would like to know more about exploring more react hook form.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I would like to know more about using react hooks more effeciently and using react routes.
  
-
