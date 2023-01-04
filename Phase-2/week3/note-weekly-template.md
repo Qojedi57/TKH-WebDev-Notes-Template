@@ -1,5 +1,5 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week3]
+## [January]/[02] - [January]/[04]
 
 # Topic:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [January]/[03] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about useEffect.
+2. I learned today about the spread operator.
+3. I learned today about destructuring objects.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about react.
+2. I would like to know more about Hooks.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding about life cycle.
 
 ___
 
