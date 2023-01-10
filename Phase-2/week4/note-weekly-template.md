@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week4]
+## [January]/[09] - [January]/[11]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [January]/[09]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned about Data fetching with useEffect.
+2. I learned today about useSWR.
+3. I learned about react-query.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about Data fetching.
+2. I would like to know more about SWR.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding how to use API data in a project.
 
 
 ___
