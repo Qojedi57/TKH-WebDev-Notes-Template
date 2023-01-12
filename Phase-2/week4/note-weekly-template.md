@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [January]/[11]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about setup routing with data fetching using Giphy API.
+2. I learned today about routes and pull data from an api with react js.
+3. I learned about fundamental practices in react js.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like know more about useage of router and api endpoint.
+2. I would like to know more about using Tab bar as a separate component.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding the different ways to use APIS.
  
 
