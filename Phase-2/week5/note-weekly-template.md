@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week5]
+## [January]/[16] - [January]/[18]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [January]/[16]
 
 #### 🗒️Notes from class:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [January]/[17] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about routes review.
+2. I learned about using chakra ui.
+3. I learned today about exploring UI libraries.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about APIS how to work with them more efficiently,
+2. I would like to know more about using UI libraries.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding about api endpoints.
 
 ___
 
