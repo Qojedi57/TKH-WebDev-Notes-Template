@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [January]/[18]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about useLoader.
+2. I learned today about how to inspect mobile on dev tools.
+3. I learned about what a gotcha is about.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about utilizing ui libraries and working with them on a project.
+2. I would like to know more about using reusable components.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nothing at the moment.
  
 
