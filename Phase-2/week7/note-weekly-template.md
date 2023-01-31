@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week7]
+## [January]/[30] - [January]/[01]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [January]/[30]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned the _request to tell function request not needed.
+2. I learned today about how to make a fake databse.
+3. I learned about express reducing a lot of code. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about working with servers.
+2. I would like to know more about making routes.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. None at the moment.
 
 
 ___
