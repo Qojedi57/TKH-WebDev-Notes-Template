@@ -1,5 +1,5 @@
 # Week [week7]
-## [January]/[30] - [January]/[01]
+## [January]/[30] - [February]/[01]
 
 # Topic:
 
