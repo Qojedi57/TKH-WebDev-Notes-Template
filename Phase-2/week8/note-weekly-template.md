@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [February]/[09]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about dynamic params.
+2. I learned today about tohaveproperty method in testing.
+3. I learned today about prisma one to one relations or many to many.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about authentication.
+2. I would like to know more about schema.prisma.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nothing at the moment.
  
 
