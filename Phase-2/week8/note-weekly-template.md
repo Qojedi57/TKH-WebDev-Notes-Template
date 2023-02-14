@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [February]/[09]
+### Day 3, [February]/[08]
 #### 🗒️Notes from class:
 
 #### 📚Resources:

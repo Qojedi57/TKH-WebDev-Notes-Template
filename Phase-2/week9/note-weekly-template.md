@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week9]
+## [February]]/[13] - [February]/[15]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [February]/[13]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about authentication.
+2. I learned today about passport.
+3. I learned today about JWT.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about payload.
+2. I would like to know more about sessions.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. None at the moment.
 
 
 ___
