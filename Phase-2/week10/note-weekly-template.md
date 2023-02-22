@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week10]
+## [February]/[20] - [February]/[22]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [February]/[20]
 
 #### 🗒️Notes from class:
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [February]/[21] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about deployment.
+2. I learned today about Railway.
+3. I learned today about Vercel.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about port ||.
+2. I would like to know more about errors after deployment.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. I'm having trouble understanding using frameworks in my portfolio.
 
 ___
 
