@@ -28,7 +28,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [February]/[28] 
 
 #### 🗒️Notes from class:
 
@@ -38,16 +38,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about pull request and other git commands.
+2. I learned today about setup with the backend.
+3. I learned today about authentication.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about how front-end connects with the back-end.
+2. I would like to know more about using notion.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. None at the moment.
 
 ___
 
