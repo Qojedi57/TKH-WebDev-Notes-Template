@@ -51,7 +51,7 @@ ___
 
 ___
 
-### Day 3, [February]/[01]
+### Day 3, [March]/[01]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
