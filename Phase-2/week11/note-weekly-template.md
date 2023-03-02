@@ -51,7 +51,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [February]/[01]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -60,15 +60,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned today about git stash.
+2. I learned today about git rebase.
+3. I learned today about postman tokens.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about front end and backend connect.
+2. I would like to know more about MYSQL.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. None at the moment.
  
 
