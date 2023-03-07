@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week12]
+## [March]/[06] - [March]/[08]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [March]/[06]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learned to work as a group and assigning each other tasks to complete.
+2. I learned today about how to perform a login and singup while using tokens.
+3. I learned today about mapping to display data.
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. I would like to know more about seeing how backend and frontend connect to each other.
+2. I would like to know more about saving login info after login to navigate and edit user info.
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Nothing at the moment.
 
 
 ___
