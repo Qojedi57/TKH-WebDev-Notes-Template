@@ -1,11 +1,11 @@
-# Week 1
-## [9]/[12] - [9]/[14]
+# Week [week#]
+## [month]/[day] - [month]/[day]
 
 # Topic:
 
 ___
 
-### Day 1, [September]/[14]
+### Day 1, [month]/[day]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. I learned how to fork and clone 
-2. i was able to get the softwares installed
-3. I learned how to add to notes repo
+1.
+2. 
+3. 
 
 👁️Two things I would like to know more about:
-1. I would like to know more examples on how to clone and fork
-2. I would like to know more about vsc
+1. 
+2. 
 
 ✋One thing I'm having trouble understanding:
-1.For me understanding basics of github
+1.
 
 
 ___
